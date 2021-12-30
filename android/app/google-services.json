@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829771647173",
+    "project_id": "santa-app-fe48d",
+    "storage_bucket": "santa-app-fe48d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829771647173:android:e1d72bae2e73b56f4048ac",
+        "android_client_info": {
+          "package_name": "cl.dam2021.santa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829771647173-gio0s6akq69j9klshrfgd75fgtf680e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbe3B9bOeHhQGmpsQ7JjQEnkKKyVlVc18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829771647173-gio0s6akq69j9klshrfgd75fgtf680e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
